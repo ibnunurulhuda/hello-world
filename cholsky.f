@@ -24,6 +24,7 @@ c
       print *,' Cholesky-factorization'
       print *,' Section 4.2, Kincaid-Cheney'
       print *
+      print *,'I am Ibnu'
 c
       do 5 k=1,n
          sum1 = a(k,k)
