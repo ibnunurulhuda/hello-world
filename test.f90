@@ -4,4 +4,6 @@ program test
 
   print*,"Hello, My name is Ibnu"
 
+  Hello again
+
 end program test
